@@ -1,1 +1,4 @@
-git clone 
+git clone https://github.com/dura51/who-.git
+cd who
+chmod +x who.sh
+./who.sh
